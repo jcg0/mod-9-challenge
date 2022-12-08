@@ -1,0 +1,22 @@
+{
+  "name": "mod-9-challenge",
+  "version": "1.0.0",
+  "description": "[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcg0/mod-9-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcg0/mod-9-challenge/issues"
+  },
+  "homepage": "https://github.com/jcg0/mod-9-challenge#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
