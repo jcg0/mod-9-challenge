@@ -123,8 +123,7 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   return `
 [![License: ${data.license}](https://img.shields.io/badge/License-${data.license}-purple.svg)](https://opensource.org/licenses/${data.license})
-# Title
-${data.title}
+#${data.title}
 
 ## Decription
 ${data.description}
@@ -135,8 +134,8 @@ ${data.description}
 - [Usage](#usage)
 - [Contributions](#credits)
 - [License](#licenses)
-- [Questions](#questions)
 - [Test Instructions](#test)
+- [Questions](#questions)
 
 ## Installation
 ${data.installation}
