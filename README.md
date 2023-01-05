@@ -1,6 +1,11 @@
 # Professional README Generator Starter Code
 
 [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+[Link to my app walkthrough](https://drive.google.com/file/d/16gh2W1uW5lGwQKuVTv8UWUXw2PEhXM9S/view)
+
+# Description
+This app was a challenge for me in the beginning because we had just learned a new technology in Node, but after a few meetings with TA's I was able to really grasp the concept of inquirer and node and how they mix so seemlessly. In the end I really enjoyed working on this project and I thought it was really cool that there are many different uses for Node.
+
 
 # User Story
 
